@@ -28,4 +28,4 @@ Expense Tracker — это приложение для отслеживания 
 2. Откройте терминал/командную строку
 3. Перейдите в папку с программой:
 ```bash
-git clone <URL_репозитория>
+git clone <[URL_репозитория](https://github.com/AngelinaGricaenko/Expense-Tracker/blob/main/main.py)>
